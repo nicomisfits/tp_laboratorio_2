@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Alumno_Clase_12\Clase_12_Library\bin\Release\Clase_12_Library.dll
+C:\Users\user\Desktop\Alumno_Clase_12\Clase_12_Library\bin\Release\Clase_12_Library.pdb
+C:\Users\user\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Release\Clase_12_Library.dll
+C:\Users\user\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Release\Clase_12_Library.pdb
