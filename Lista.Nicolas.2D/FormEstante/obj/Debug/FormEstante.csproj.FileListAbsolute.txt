@@ -1,0 +1,11 @@
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\obj\Debug\FormEstante.Form1.resources
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\bin\Debug\Entidades.dll
+C:\Users\nicolas\documents\visual studio 2012\Projects\Lista.Nicolas.2D\FormEstante\bin\Debug\Entidades.pdb
