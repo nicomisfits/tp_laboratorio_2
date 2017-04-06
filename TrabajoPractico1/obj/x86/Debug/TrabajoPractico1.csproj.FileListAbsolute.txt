@@ -1,0 +1,9 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\bin\Debug\Entidades.dll
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\bin\Debug\Entidades.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\obj\x86\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\obj\x86\Debug\TrabajoPractico1.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\obj\x86\Debug\TrabajoPractico1.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\obj\x86\Debug\TrabajoPractico1.InterfazGrafica.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Nicolas.lista\TrabajoPractico1\obj\x86\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
